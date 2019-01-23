@@ -3,8 +3,6 @@
 # 01/06/19
 # desc: calculates rocket fuel needed to leave a planet
 
-import math 
-
 # Saturn V
 m = 250000 # mass of rocket w/o fuel [kg]
 Ve = 2550 # escape velocity [m/s]
